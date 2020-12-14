@@ -13,6 +13,7 @@ import lombok.NoArgsConstructor;
  * This class contains the template for API response.
  */
 
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
